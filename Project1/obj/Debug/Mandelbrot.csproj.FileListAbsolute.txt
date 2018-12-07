@@ -1,0 +1,44 @@
+c:\users\inflatable boat\documents\visual studio 2015\Projects\Solution1\Project1\obj\Debug\Mandelbrot.csprojResolveAssemblyReference.cache
+c:\users\inflatable boat\documents\visual studio 2015\Projects\Solution1\Project1\bin\Debug\Project1.exe.config
+c:\users\inflatable boat\documents\visual studio 2015\Projects\Solution1\Project1\bin\Debug\Project1.exe
+c:\users\inflatable boat\documents\visual studio 2015\Projects\Solution1\Project1\bin\Debug\Project1.pdb
+c:\users\inflatable boat\documents\visual studio 2015\Projects\Solution1\Project1\obj\Debug\Project1.exe
+c:\users\inflatable boat\documents\visual studio 2015\Projects\Solution1\Project1\obj\Debug\Project1.pdb
+C:\Users\Inflatable Boat\Documents\Visual Studio 2015\Projects\actualmandel\Project1\bin\Debug\Project1.exe.config
+C:\Users\Inflatable Boat\Documents\Visual Studio 2015\Projects\actualmandel\Project1\obj\Debug\Project1.exe
+C:\Users\Inflatable Boat\Documents\Visual Studio 2015\Projects\actualmandel\Project1\obj\Debug\Project1.pdb
+C:\Users\Inflatable Boat\Documents\Visual Studio 2015\Projects\actualmandel\Project1\bin\Debug\Project1.exe
+C:\Users\Inflatable Boat\Documents\Visual Studio 2015\Projects\actualmandel\Project1\bin\Debug\Project1.pdb
+C:\Users\Inflatable Boat\Documents\Visual Studio 2015\Projects\actualmandel\Project1\obj\Debug\Mandelbrot.csprojResolveAssemblyReference.cache
+C:\Users\tkore\Downloads\mandelruud\actualmandel\Project1\bin\Debug\Project1.exe.config
+C:\Users\tkore\Downloads\mandelruud\actualmandel\Project1\obj\Debug\Project1.exe
+C:\Users\tkore\Downloads\mandelruud\actualmandel\Project1\obj\Debug\Project1.pdb
+C:\Users\tkore\Downloads\mandelruud\actualmandel\Project1\bin\Debug\Project1.exe
+C:\Users\tkore\Downloads\mandelruud\actualmandel\Project1\bin\Debug\Project1.pdb
+C:\Users\tkore\Downloads\mandelruud\actualmandel\Project1\obj\Debug\Mandelbrot.csprojResolveAssemblyReference.cache
+C:\Users\tkore\OneDrive\Studie\Vakken\Informatica\Imperatief Programmeren\MandelBrot\mandelruud\actualmandel\Project1\bin\Debug\Project1.exe.config
+C:\Users\tkore\OneDrive\Studie\Vakken\Informatica\Imperatief Programmeren\MandelBrot\mandelruud\actualmandel\Project1\obj\Debug\Project1.exe
+C:\Users\tkore\OneDrive\Studie\Vakken\Informatica\Imperatief Programmeren\MandelBrot\mandelruud\actualmandel\Project1\obj\Debug\Project1.pdb
+C:\Users\tkore\OneDrive\Studie\Vakken\Informatica\Imperatief Programmeren\MandelBrot\mandelruud\actualmandel\Project1\bin\Debug\Project1.exe
+C:\Users\tkore\OneDrive\Studie\Vakken\Informatica\Imperatief Programmeren\MandelBrot\mandelruud\actualmandel\Project1\bin\Debug\Project1.pdb
+C:\Users\tkore\OneDrive\Studie\Vakken\Informatica\Imperatief Programmeren\MandelBrot\mandelruud\actualmandel\Project1\obj\Debug\Mandelbrot.csprojResolveAssemblyReference.cache
+C:\Users\Tim\OneDrive\Studie\Vakken\Informatica\Imperatief Programmeren\MandelBrot\mandelruud\actualmandel\Project1\bin\Debug\Project1.exe.config
+C:\Users\Tim\OneDrive\Studie\Vakken\Informatica\Imperatief Programmeren\MandelBrot\mandelruud\actualmandel\Project1\obj\Debug\Project1.exe
+C:\Users\Tim\OneDrive\Studie\Vakken\Informatica\Imperatief Programmeren\MandelBrot\mandelruud\actualmandel\Project1\obj\Debug\Project1.pdb
+C:\Users\Tim\OneDrive\Studie\Vakken\Informatica\Imperatief Programmeren\MandelBrot\mandelruud\actualmandel\Project1\bin\Debug\Project1.exe
+C:\Users\Tim\OneDrive\Studie\Vakken\Informatica\Imperatief Programmeren\MandelBrot\mandelruud\actualmandel\Project1\bin\Debug\Project1.pdb
+C:\Users\Tim\OneDrive\Studie\Vakken\Informatica\Imperatief Programmeren\MandelBrot\mandelruud\actualmandel\Project1\obj\Debug\Mandelbrot.csprojResolveAssemblyReference.cache
+C:\Users\tkore\OneDrive\Studie\Vakken\Informatica\Imperatief Programmeren\MandelBrot\Mandelfinal\Project1\bin\Debug\Project1.exe.config
+C:\Users\tkore\OneDrive\Studie\BSc\Vakken\Informatica\Imperatief Programmeren\MandelBrot\Mandelfinal\Project1\bin\Debug\Project1.exe.config
+C:\Users\tkore\OneDrive\Studie\BSc\Vakken\Informatica\Imperatief Programmeren\MandelBrot\Mandelfinal\Project1\bin\Debug\Project1.exe
+C:\Users\tkore\OneDrive\Studie\BSc\Vakken\Informatica\Imperatief Programmeren\MandelBrot\Mandelfinal\Project1\bin\Debug\Project1.pdb
+C:\Users\tkore\OneDrive\Studie\BSc\Vakken\Informatica\Imperatief Programmeren\MandelBrot\Mandelfinal\Project1\obj\Debug\Mandelbrot.csprojResolveAssemblyReference.cache
+C:\Users\tkore\OneDrive\Studie\BSc\Vakken\Informatica\Imperatief Programmeren\MandelBrot\Mandelfinal\Project1\obj\Debug\Mandelbrot.csproj.CoreCompileInputs.cache
+C:\Users\tkore\OneDrive\Studie\BSc\Vakken\Informatica\Imperatief Programmeren\MandelBrot\Mandelfinal\Project1\obj\Debug\Project1.exe
+C:\Users\tkore\OneDrive\Studie\BSc\Vakken\Informatica\Imperatief Programmeren\MandelBrot\Mandelfinal\Project1\obj\Debug\Project1.pdb
+C:\Users\Tim\OneDrive\Studie\BSc\Vakken\Informatica\Imperatief Programmeren\MandelBrot\Mandelfinal\Project1\bin\Debug\Project1.exe.config
+C:\Users\Tim\OneDrive\Studie\BSc\Vakken\Informatica\Imperatief Programmeren\MandelBrot\Mandelfinal\Project1\bin\Debug\Project1.exe
+C:\Users\Tim\OneDrive\Studie\BSc\Vakken\Informatica\Imperatief Programmeren\MandelBrot\Mandelfinal\Project1\bin\Debug\Project1.pdb
+C:\Users\Tim\OneDrive\Studie\BSc\Vakken\Informatica\Imperatief Programmeren\MandelBrot\Mandelfinal\Project1\obj\Debug\Mandelbrot.csprojResolveAssemblyReference.cache
+C:\Users\Tim\OneDrive\Studie\BSc\Vakken\Informatica\Imperatief Programmeren\MandelBrot\Mandelfinal\Project1\obj\Debug\Project1.exe
+C:\Users\Tim\OneDrive\Studie\BSc\Vakken\Informatica\Imperatief Programmeren\MandelBrot\Mandelfinal\Project1\obj\Debug\Project1.pdb
