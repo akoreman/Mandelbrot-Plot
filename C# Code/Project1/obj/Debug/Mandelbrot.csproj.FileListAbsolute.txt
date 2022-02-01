@@ -42,3 +42,10 @@ C:\Users\Tim\OneDrive\Studie\BSc\Vakken\Informatica\Imperatief Programmeren\Mand
 C:\Users\Tim\OneDrive\Studie\BSc\Vakken\Informatica\Imperatief Programmeren\MandelBrot\Mandelfinal\Project1\obj\Debug\Mandelbrot.csprojResolveAssemblyReference.cache
 C:\Users\Tim\OneDrive\Studie\BSc\Vakken\Informatica\Imperatief Programmeren\MandelBrot\Mandelfinal\Project1\obj\Debug\Project1.exe
 C:\Users\Tim\OneDrive\Studie\BSc\Vakken\Informatica\Imperatief Programmeren\MandelBrot\Mandelfinal\Project1\obj\Debug\Project1.pdb
+C:\Users\tkore\OneDrive\unityprojects\Git\Mandelbrot-Plot\Project1\bin\Debug\Project1.exe.config
+C:\Users\tkore\OneDrive\unityprojects\Git\Mandelbrot-Plot\Project1\bin\Debug\Project1.exe
+C:\Users\tkore\OneDrive\unityprojects\Git\Mandelbrot-Plot\Project1\bin\Debug\Project1.pdb
+C:\Users\tkore\OneDrive\unityprojects\Git\Mandelbrot-Plot\Project1\obj\Debug\Mandelbrot.csprojAssemblyReference.cache
+C:\Users\tkore\OneDrive\unityprojects\Git\Mandelbrot-Plot\Project1\obj\Debug\Mandelbrot.csproj.CoreCompileInputs.cache
+C:\Users\tkore\OneDrive\unityprojects\Git\Mandelbrot-Plot\Project1\obj\Debug\Project1.exe
+C:\Users\tkore\OneDrive\unityprojects\Git\Mandelbrot-Plot\Project1\obj\Debug\Project1.pdb
